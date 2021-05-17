@@ -1,0 +1,46 @@
+[{
+	"question": "Excess dichromate is titrated by using ____________ as an indicator.",
+	"answers": {
+		"a": "Silver sulfate",
+		"b": "Mercuric sulfate ",
+		"c": "Ferrous ammonium sulfate ",
+		"d": "Ortho phenanthroline ferrous complex"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Empirically, municipal waste water has a 5 day BOD of ",
+	"answers": {
+		"a": "0.4 - 0.6 COD",
+		"b": "0.1 - 0.4 COD",
+		"c": "0.2 - 0.4 COD",
+		"d": "0.1 - 0.6 COD"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "The COD value will always be _____________ than the value of BOD for waste water.",
+	"answers": {
+		"a": "Higher",
+		"b": "Lower",
+		"c": "Equal",
+		"d": "None of the above"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "4. For untreated wate water BOD/COD ratio is ",
+	"answers": {
+		"a": "&le; 0.5",
+		"b": "0.5",
+		"c": "&ge; 0.5",
+		"d": "None of the above"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "In which region chromic ion absorbs the light efficiently? ",
+	"answers": {
+		"a": "200nm region",
+		"b": "400nm region",
+		"c": "700nm region",
+		"d": "600nm region"
+	},
+	"correctAnswer": "d"
+}]
