@@ -14,7 +14,7 @@ b. Mercuric sulfate <br>
 c. Ferrous ammonium sulfate <br>
 d. Ortho phenanthroline ferrous complex<br>
 
-Q 3. The amount of oxygen consumed by sewage from an oxidising agent like potassium dichromate is termed as  <br>
+Q 3. The amount of oxygen consumed by sewage as a result of an oxidizing agent such as potassium dichromate is referred to as<br>
 a. Biochemical Oxygen Demand (BOD)<br>
 <b>b. Chemical Oxygen Demand (COD)</b><br>
 c. Organic Oxygen Demand<br>
