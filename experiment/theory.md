@@ -14,5 +14,7 @@
 
 <p style="text-indent:50px; text-align:justify;">Empirically for municipal wastewater, BOD5 ≈ 0.4 to 0.6 COD. Even though COD does not represent exactly the biodegradable organics, it is sometimes taken as measuring parameter of organic waste, as a COD value can be determined in 3-4 hours as against 3-5 days for a BOD value. COD can be determined titrimetrically or photometrically.</p>
 
+<p style="text-indent:50px; text-align:justify;">A blank sample is usually created by adding all reagents to a volume of distilled water. To ensure a true measurement of organic matter, COD is measured in both polluted water and blank samples, and the oxygen demand in the blank sample is subtracted from the COD in the original sample.</p>
+
 #### Relevant Indian Standard for Chemical Oxygen Demand Test :
 1. <p style="text-align:justify;">IS 3025 (Part 44)-1993: Method of Sampling and Test (Physical and Chemical) for Water and Wastewater, Biochemical Oxygen demand, First Revision.</p>
