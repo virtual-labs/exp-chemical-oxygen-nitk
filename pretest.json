@@ -1,0 +1,46 @@
+[{
+	"question": "Organic and oxidizable inorganic substances in the sample are oxidized by ",
+	"answers": {
+		"a": "Potassium chromate ",
+		"b": "Potassium dichromate",
+		"c": "Potassium permanganate",
+		"d": "Potassium nitrate"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "What is the catalyst used?",
+	"answers": {
+		"a": "Silver sulfate ",
+		"b": "Mercuric sulfate ",
+		"c": "Ferrous ammonium sulfate ",
+		"d": " Ortho phenanthroline ferrous complex"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "The amount of oxygen consumed by sewage as a result of an oxidizing agent such as potassium dichromate is referred to as",
+	"answers": {
+		"a": "Biochemical Oxygen Demand (BOD)",
+		"b": "Chemical Oxygen Demand (COD)",
+		"c": "Organic Oxygen Demand",
+		"d": "None of these"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Reflux temperature is the temperature ",
+	"answers": {
+		"a": "At which the reaction is heated depends on the boiling points of the solvents",
+		"b": "At which the reaction is heated depends on the boiling points of the solute",
+		"c": "At which the reaction is heated depends on the boiling points of the solution",
+		"d": "At which the reaction is heated depends on the boiling points of the mixture"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Chemical Oxygen demand (COD) measures the ",
+	"answers": {
+		"a": "Amount of oxygen required for growth of microorganisms in water",
+		"b": "Amount of oxygen required to oxidize the calcium present in waste water",
+		"c": " Amount of oxygen that would be removed from the water in order to oxidize pollution ",
+		"d": "All of the above"
+	},
+	"correctAnswer": "c"
+}]
